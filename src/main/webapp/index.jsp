@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1> WELCOME TO MINDCIRCUIT WEBPAGE</h1>
+    <h1> WELCOME TO MINDCIRCUIT WEBSITE LOGINPAGE</h1>
 </body>
 </html>
